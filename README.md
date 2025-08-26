@@ -5,7 +5,7 @@
 
 ## Dashboard
 **KPI Row**
-<img src="assets/screenshot-kpis.png" width="600"/>
+<img src="assets/screenshot-kpi.png" width="600"/>
 
 **Full Dashboard**
 <img src="assets/screenshot-full.png" width="800"/>
