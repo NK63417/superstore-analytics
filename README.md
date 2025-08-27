@@ -5,7 +5,7 @@
 **KPIs:** Sales, Profit, Orders, Profit Margin %, Average Order Value
 
 [Live Looker Studio](https://lookerstudio.google.com/reporting/d427dfd0-3c57-4923-83aa-5d492ac107c2) 
-[![Open in Colab](https://colab.research.google.com/github/NK63417/superstore-analytics/blob/main/notebooks/SuperStore.ipynb)
+[Open in Colab](https://colab.research.google.com/github/NK63417/superstore-analytics/blob/main/notebooks/SuperStore.ipynb)
 
 ---
 
